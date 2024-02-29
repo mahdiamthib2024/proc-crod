@@ -1,0 +1,13 @@
+C:\Users\MAHDI\source\repos\Queen\Queen\bin\Debug\Queen.exe.config
+C:\Users\MAHDI\source\repos\Queen\Queen\bin\Debug\Queen.exe
+C:\Users\MAHDI\source\repos\Queen\Queen\bin\Debug\Queen.pdb
+C:\Users\MAHDI\source\repos\Queen\Queen\bin\Debug\Guna.UI2.dll
+C:\Users\MAHDI\source\repos\Queen\Queen\obj\Debug\Queen.csproj.SuggestedBindingRedirects.cache
+C:\Users\MAHDI\source\repos\Queen\Queen\obj\Debug\Queen.Properties.Resources.resources
+C:\Users\MAHDI\source\repos\Queen\Queen\obj\Debug\Queen.csproj.GenerateResource.cache
+C:\Users\MAHDI\source\repos\Queen\Queen\obj\Debug\Queen.csproj.CoreCompileInputs.cache
+C:\Users\MAHDI\source\repos\Queen\Queen\obj\Debug\Queen.csproj.CopyComplete
+C:\Users\MAHDI\source\repos\Queen\Queen\obj\Debug\Queen.exe
+C:\Users\MAHDI\source\repos\Queen\Queen\obj\Debug\Queen.pdb
+C:\Users\MAHDI\source\repos\Queen\Queen\obj\Debug\Queen.Form1.resources
+C:\Users\MAHDI\source\repos\Queen\Queen\obj\Debug\Queen.csproj.AssemblyReference.cache
